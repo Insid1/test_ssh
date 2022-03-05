@@ -7,4 +7,9 @@ Another changes in test1
 
 
 
-more development in test_1
+deleted unusefull info 
+
+and adding new information in test_1
+
+
+
